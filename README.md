@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 
 <br>
 <p align="center">
