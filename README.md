@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=freedevsoft.freedevsoft">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+%F0%9F%91%8B;Contact+me+....;Using+telegram+!&center=true&size=30">
