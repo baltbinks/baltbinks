@@ -15,7 +15,7 @@
 
 - **Pult** · Multi-cloud PaaS written in Go. Single SDK to replace Vercel + Supabase + Redis. K3s orchestration on bare metal, fluid compute with near-zero cold starts, zero vendor lock-in.
 
-- **Boreal** · Tech agency (14 years, 30-person team) and AI platform. Web solutions, Stripe billing, multi-language support. Expanding to the Quebec market.
+- **Boreal** · Tech agency (30-person team) and AI platform. Web solutions, Stripe billing, multi-language support. Expanding to the Quebec market.
 
 - **PetTrackr** · GPS collar for dogs. Custom C firmware on nRF9151 (Zephyr RTOS), LTE-M connectivity through AWS IoT Core, Expo mobile app, Supabase backend. Full vertical from PCB design to app store.
 
@@ -77,10 +77,5 @@ I don't specialize. I use what the project needs.
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baltbinks&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baltbinks&theme=github-dark-blue&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baltbinks&layout=compact&theme=github_dark&hide_border=true&langs_count=10" height="165">
 </p>
