@@ -15,9 +15,9 @@
 
 - **Pult** · Multi-cloud PaaS written in Go. Single SDK to replace Vercel + Supabase + Redis. K3s orchestration on bare metal, fluid compute with near-zero cold starts, zero vendor lock-in.
 
-- **Boreal** · Tech agency (30-person team) and AI platform. Web solutions, Stripe billing, multi-language support. Expanding to the Quebec market.
+- **Boreal** · Tech agency (30-person team) and AI platform. Web solutions, multi-language support.
 
-- **PetTrackr** · GPS collar for dogs. Custom C firmware on nRF9151 (Zephyr RTOS), LTE-M connectivity through AWS IoT Core, Expo mobile app, Supabase backend. Full vertical from PCB design to app store.
+- **PetTrackr** · GPS collar for dogs. Custom C firmware, LTE-M connectivity through AWS IoT Core, iOS/Android mobile app, managed DB. Full vertical from PCB design to app store.
 
 - **Seez** · Location-based web app built on Next.js and Mapbox GL.
 
